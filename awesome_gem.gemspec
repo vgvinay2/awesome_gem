@@ -5,6 +5,7 @@ Gem::Specification.new do |s|
  s.summary = %q{awesome_gem is the best}
  s.authors = ["Rituraj"]
  s.email = ["rituraj@kreatio.com"]
+ s.url = "https://github.com/aelor/awesome_gem" 
  s.files = [
   "lib/awesome_gem.rb"
   ]
